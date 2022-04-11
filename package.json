@@ -18,6 +18,7 @@
   "homepage": "https://github.com/yonatanmekuriaw/first-smart-contract#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-etherscan": "^3.0.1",
     "ethers": "^5.6.2",
     "hardhat": "^2.9.3"
   },
