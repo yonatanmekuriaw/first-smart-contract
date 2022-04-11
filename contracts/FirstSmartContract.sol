@@ -17,7 +17,6 @@ contract FirstSmartContract {
    // Similar to many class-based object-oriented languages, a constructor is a special function that is only executed upon contract creation.
    // Constructors are used to initialize the contract's data. Learn more:https://solidity.readthedocs.io/en/v0.5.10/contracts.html#constructors
    constructor(string memory initMessage) {
-
       // Accepts a string argument `initMessage` and sets the value into the contract's `message` storage variable).
       message = initMessage;
    }

@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yonatan/Documents/first-smart-contract/contracts/FirstSmartContract.sol": {
+      "lastModificationDate": 1649676904327,
+      "contentHash": "f3efd519955349f51ddc3d74e2820cca",
+      "sourceName": "contracts/FirstSmartContract.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.3"
+      ],
+      "artifacts": [
+        "FirstSmartContract"
+      ]
+    }
+  }
+}
